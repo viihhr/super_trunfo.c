@@ -25,6 +25,7 @@ int main(){
     printf("PIB: %.2f bilhões\n", pib);
     printf("Pontos Turisticos: %d\n\n", numero_de_pontos_turisticos);
 
+    
 
     char numero_da_carta2 = '2';
     char estado2 [] = "B";
