@@ -26,7 +26,6 @@ int main(){
     printf("Pontos Turisticos: %d\n\n", numero_de_pontos_turisticos);
 
 
-
     char numero_da_carta2 = '2';
     char estado2 [] = "B";
     char codigo2 [20]= "A02";
